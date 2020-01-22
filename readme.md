@@ -14,5 +14,5 @@ Write a java program which allows user to do the shopping. It should do the foll
 <b><h4>To run the program: </b> </h4>
 ```
 javac ShoppingCartApp.java
-java ShoppingCartApp
+java ShoppingCartApp 
 ```
