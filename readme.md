@@ -1,6 +1,5 @@
-
+<b><h4>Problem Statement:</b></h4>
 Write a java program which allows user to do the shopping. It should do the following:
-<h4>Problem Statement:</h4>
 
 <ul>
 <li> Allow the admin(shop manager) to add the items to the item list.</li>
